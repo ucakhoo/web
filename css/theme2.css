@@ -1,0 +1,16 @@
+body {
+  margin: 25px;
+  background-color: rgb(240,240,240);
+  font-family: arial, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 45px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+.color { color: green; }
+
+#colorid { color: green; }
